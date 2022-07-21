@@ -1,4 +1,4 @@
-# Como crir um plano de estudos
+# Como criar um plano de estudos
 
 Fonte: [Dev Eficiente](https://www.youtube.com/watch?v=Um40HIxVMTM&t=630s)
 

@@ -80,5 +80,15 @@ Pra quem podemos fazer essas perguntas?
 ### Dica extra
 1. Participar de palestras.
 2. Dormir o suficiente. [Sleep loss, learning capacity and academic performance](https://www.sciencedirect.com/science/article/abs/pii/S1087079205001231) 
+3. O conhecimento é ciclico.
 
 
+## Resumo:
+
+1. Explore o tema
+2. Faça resumos
+3. Conheça seu contexto
+4. Tenha objetivos de aprendizado
+5. Encontre fontes que tenham autoridade e sejam fáceis de consumir
+6. **Pratique**
+7. Faça ciclos de aprendizado
